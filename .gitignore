@@ -6,10 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-footer.jxs
-Cart.jxs
-CTA.jxs
- Pricing.jxs
 node_modules
 dist
 dist-ssr
