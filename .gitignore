@@ -10,8 +10,6 @@ footer.jxs
 Cart.jxs
 CTA.jxs
  Pricing.jxs
-PricingCard.jxs
-ProductCard.jxs
 node_modules
 dist
 dist-ssr
